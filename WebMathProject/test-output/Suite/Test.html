@@ -1,0 +1,285 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>41/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Wed May 17 18:24:05 IST 2023</td>
+</tr>
+<tr><td>Total time:</td><td>689 seconds (689147 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='WebMathProject.Algebra.backToProblem()'><b>backToProblem</b><br>Test class: WebMathProject.Algebra</td>
+<td></td>
+<td>13</td>
+<td>WebMathProject.Algebra@f0c8a99</td></tr>
+<tr>
+<td title='WebMathProject.MathforEveryoneandGeneralMathmodule.Additionoffraction()'><b>Additionoffraction</b><br>Test class: WebMathProject.MathforEveryoneandGeneralMathmodule</td>
+<td></td>
+<td>13</td>
+<td>WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd</td></tr>
+<tr>
+<td title='WebMathProject.K8MathsandTrigcalculus.Findingderivatives()'><b>Findingderivatives</b><br>Test class: WebMathProject.K8MathsandTrigcalculus</td>
+<td></td>
+<td>12</td>
+<td>WebMathProject.K8MathsandTrigcalculus@4145bad8</td></tr>
+<tr>
+<td title='WebMathProject.PlotsandGeometry.CalculatingDiameterOfCircle()'><b>CalculatingDiameterOfCircle</b><br>Test class: WebMathProject.PlotsandGeometry</td>
+<td></td>
+<td>19</td>
+<td>WebMathProject.PlotsandGeometry@298a5e20</td></tr>
+<tr>
+<td title='WebMathProject.K8MathsandTrigcalculus.simplifyingtrignometricexpression()'><b>simplifyingtrignometricexpression</b><br>Test class: WebMathProject.K8MathsandTrigcalculus</td>
+<td></td>
+<td>12</td>
+<td>WebMathProject.K8MathsandTrigcalculus@4145bad8</td></tr>
+<tr>
+<td title='WebMathProject.K8MathsandTrigcalculus.ChamparingFractions()'><b>ChamparingFractions</b><br>Test class: WebMathProject.K8MathsandTrigcalculus</td>
+<td></td>
+<td>17</td>
+<td>WebMathProject.K8MathsandTrigcalculus@4145bad8</td></tr>
+<tr>
+<td title='WebMathProject.Webmathhomepage.Webmathurllaunch()'><b>Webmathurllaunch</b><br>Test class: WebMathProject.Webmathhomepage</td>
+<td></td>
+<td>9</td>
+<td>WebMathProject.Webmathhomepage@2a7f1f10</td></tr>
+<tr>
+<td title='WebMathProject.Algebra.VerifylinksofAlgebra()'><b>VerifylinksofAlgebra</b><br>Test class: WebMathProject.Algebra</td>
+<td></td>
+<td>4</td>
+<td>WebMathProject.Algebra@f0c8a99</td></tr>
+<tr>
+<td title='WebMathProject.K8MathsandTrigcalculus.Calculatingareaofrectangle()'><b>Calculatingareaofrectangle</b><br>Test class: WebMathProject.K8MathsandTrigcalculus</td>
+<td></td>
+<td>15</td>
+<td>WebMathProject.K8MathsandTrigcalculus@4145bad8</td></tr>
+<tr>
+<td title='WebMathProject.PlotsandGeometry.PointsPlotting()'><b>PointsPlotting</b><br>Test class: WebMathProject.PlotsandGeometry</td>
+<td></td>
+<td>9</td>
+<td>WebMathProject.PlotsandGeometry@298a5e20</td></tr>
+<tr>
+<td title='WebMathProject.K8MathsandTrigcalculus.Verifylinksoftrigandcalculus()'><b>Verifylinksoftrigandcalculus</b><br>Test class: WebMathProject.K8MathsandTrigcalculus</td>
+<td></td>
+<td>3</td>
+<td>WebMathProject.K8MathsandTrigcalculus@4145bad8</td></tr>
+<tr>
+<td title='WebMathProject.MathforEveryoneandGeneralMathmodule.FactorCalculation()'><b>FactorCalculation</b><br>Test class: WebMathProject.MathforEveryoneandGeneralMathmodule</td>
+<td></td>
+<td>18</td>
+<td>WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd</td></tr>
+<tr>
+<td title='WebMathProject.K8MathsandTrigcalculus.VerifylinksofK8Math()'><b>VerifylinksofK8Math</b><br>Test class: WebMathProject.K8MathsandTrigcalculus</td>
+<td></td>
+<td>4</td>
+<td>WebMathProject.K8MathsandTrigcalculus@4145bad8</td></tr>
+<tr>
+<td title='WebMathProject.Webmathhomepage.VerifyWebmathOptions()'><b>VerifyWebmathOptions</b><br>Test class: WebMathProject.Webmathhomepage</td>
+<td></td>
+<td>44</td>
+<td>WebMathProject.Webmathhomepage@2a7f1f10</td></tr>
+<tr>
+<td title='WebMathProject.Algebra.SolvingEquation()'><b>SolvingEquation</b><br>Test class: WebMathProject.Algebra</td>
+<td></td>
+<td>14</td>
+<td>WebMathProject.Algebra@f0c8a99</td></tr>
+<tr>
+<td title='WebMathProject.PlotsandGeometry.CalculatingSidesofSquare()'><b>CalculatingSidesofSquare</b><br>Test class: WebMathProject.PlotsandGeometry</td>
+<td></td>
+<td>15</td>
+<td>WebMathProject.PlotsandGeometry@298a5e20</td></tr>
+<tr>
+<td title='WebMathProject.MathforEveryoneandGeneralMathmodule.Verifylinksofgeneralmath()'><b>Verifylinksofgeneralmath</b><br>Test class: WebMathProject.MathforEveryoneandGeneralMathmodule</td>
+<td></td>
+<td>3</td>
+<td>WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd</td></tr>
+<tr>
+<td title='WebMathProject.K8MathsandTrigcalculus.Multiplicationcalculation()'><b>Multiplicationcalculation</b><br>Test class: WebMathProject.K8MathsandTrigcalculus</td>
+<td></td>
+<td>12</td>
+<td>WebMathProject.K8MathsandTrigcalculus@4145bad8</td></tr>
+<tr>
+<td title='WebMathProject.PlotsandGeometry.verifyLinksofPlotsandgeometry()'><b>verifyLinksofPlotsandgeometry</b><br>Test class: WebMathProject.PlotsandGeometry</td>
+<td></td>
+<td>4</td>
+<td>WebMathProject.PlotsandGeometry@298a5e20</td></tr>
+<tr>
+<td title='WebMathProject.Algebra.Substractionofcomplexnumber()'><b>Substractionofcomplexnumber</b><br>Test class: WebMathProject.Algebra</td>
+<td></td>
+<td>11</td>
+<td>WebMathProject.Algebra@f0c8a99</td></tr>
+<tr>
+<td title='WebMathProject.MathforEveryoneandGeneralMathmodule.Reducefractionstolowestterm()'><b>Reducefractionstolowestterm</b><br>Test class: WebMathProject.MathforEveryoneandGeneralMathmodule</td>
+<td></td>
+<td>15</td>
+<td>WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd</td></tr>
+<tr>
+<td title='WebMathProject.Algebra.multiplicationofpolynomials()'><b>multiplicationofpolynomials</b><br>Test class: WebMathProject.Algebra</td>
+<td></td>
+<td>10</td>
+<td>WebMathProject.Algebra@f0c8a99</td></tr>
+<tr>
+<td title='WebMathProject.MathforEveryoneandGeneralMathmodule.verifylinksofmathforeveryone()'><b>verifylinksofmathforeveryone</b><br>Test class: WebMathProject.MathforEveryoneandGeneralMathmodule</td>
+<td></td>
+<td>5</td>
+<td>WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd</td></tr>
+<tr>
+<td title='WebMathProject.K8MathsandTrigcalculus.Cleartheentereddataofrightangles()'><b>Cleartheentereddataofrightangles</b><br>Test class: WebMathProject.K8MathsandTrigcalculus</td>
+<td></td>
+<td>17</td>
+<td>WebMathProject.K8MathsandTrigcalculus@4145bad8</td></tr>
+<tr>
+<td title='WebMathProject.PlotsandGeometry.CalculatingVolumeOfCylinder()'><b>CalculatingVolumeOfCylinder</b><br>Test class: WebMathProject.PlotsandGeometry</td>
+<td></td>
+<td>19</td>
+<td>WebMathProject.PlotsandGeometry@298a5e20</td></tr>
+<tr>
+<td title='WebMathProject.K8MathsandTrigcalculus.FindingRatio()'><b>FindingRatio</b><br>Test class: WebMathProject.K8MathsandTrigcalculus</td>
+<td></td>
+<td>13</td>
+<td>WebMathProject.K8MathsandTrigcalculus@4145bad8</td></tr>
+<tr>
+<td title='WebMathProject.Algebra.Solvingquadraticequationbyfactoring()'><b>Solvingquadraticequationbyfactoring</b><br>Test class: WebMathProject.Algebra</td>
+<td></td>
+<td>11</td>
+<td>WebMathProject.Algebra@f0c8a99</td></tr>
+<tr>
+<td title='WebMathProject.PlotsandGeometry.CalculatingPerimeterOfRighttriangle()'><b>CalculatingPerimeterOfRighttriangle</b><br>Test class: WebMathProject.PlotsandGeometry</td>
+<td></td>
+<td>14</td>
+<td>WebMathProject.PlotsandGeometry@298a5e20</td></tr>
+<tr>
+<td title='WebMathProject.Algebra.FindingsquareRoots()'><b>FindingsquareRoots</b><br>Test class: WebMathProject.Algebra</td>
+<td></td>
+<td>10</td>
+<td>WebMathProject.Algebra@f0c8a99</td></tr>
+<tr>
+<td title='WebMathProject.MathforEveryoneandGeneralMathmodule.salepriceCalculation()'><b>salepriceCalculation</b><br>Test class: WebMathProject.MathforEveryoneandGeneralMathmodule</td>
+<td></td>
+<td>18</td>
+<td>WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd</td></tr>
+<tr>
+<td title='WebMathProject.MathforEveryoneandGeneralMathmodule.FractiontoDecimalCalcution()'><b>FractiontoDecimalCalcution</b><br>Test class: WebMathProject.MathforEveryoneandGeneralMathmodule</td>
+<td></td>
+<td>19</td>
+<td>WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd</td></tr>
+<tr>
+<td title='WebMathProject.MathforEveryoneandGeneralMathmodule.clearingfilledform()'><b>clearingfilledform</b><br>Test class: WebMathProject.MathforEveryoneandGeneralMathmodule</td>
+<td></td>
+<td>11</td>
+<td>WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd</td></tr>
+<tr>
+<td title='WebMathProject.Algebra.somplifyingproductofalgebricexpression()'><b>somplifyingproductofalgebricexpression</b><br>Test class: WebMathProject.Algebra</td>
+<td></td>
+<td>13</td>
+<td>WebMathProject.Algebra@f0c8a99</td></tr>
+<tr>
+<td title='WebMathProject.K8MathsandTrigcalculus.Calculatingangleofrighttriangle()'><b>Calculatingangleofrighttriangle</b><br>Test class: WebMathProject.K8MathsandTrigcalculus</td>
+<td></td>
+<td>19</td>
+<td>WebMathProject.K8MathsandTrigcalculus@4145bad8</td></tr>
+<tr>
+<td title='WebMathProject.MathforEveryoneandGeneralMathmodule.CostofElectricity()'><b>CostofElectricity</b><br>Test class: WebMathProject.MathforEveryoneandGeneralMathmodule</td>
+<td></td>
+<td>13</td>
+<td>WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd</td></tr>
+<tr>
+<td title='WebMathProject.K8MathsandTrigcalculus.solvingintergral()'><b>solvingintergral</b><br>Test class: WebMathProject.K8MathsandTrigcalculus</td>
+<td></td>
+<td>12</td>
+<td>WebMathProject.K8MathsandTrigcalculus@4145bad8</td></tr>
+<tr>
+<td title='WebMathProject.Algebra.PercentsCalculation()'><b>PercentsCalculation</b><br>Test class: WebMathProject.Algebra</td>
+<td></td>
+<td>12</td>
+<td>WebMathProject.Algebra@f0c8a99</td></tr>
+<tr>
+<td title='WebMathProject.PlotsandGeometry.PointPlottingClearEnteredData()'><b>PointPlottingClearEnteredData</b><br>Test class: WebMathProject.PlotsandGeometry</td>
+<td></td>
+<td>11</td>
+<td>WebMathProject.PlotsandGeometry@298a5e20</td></tr>
+<tr>
+<td title='WebMathProject.MathforEveryoneandGeneralMathmodule.PowerConversion()'><b>PowerConversion</b><br>Test class: WebMathProject.MathforEveryoneandGeneralMathmodule</td>
+<td></td>
+<td>18</td>
+<td>WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd</td></tr>
+<tr>
+<td title='WebMathProject.Webmathhomepage.verifydropdownoptions()'><b>verifydropdownoptions</b><br>Test class: WebMathProject.Webmathhomepage</td>
+<td></td>
+<td>4</td>
+<td>WebMathProject.Webmathhomepage@2a7f1f10</td></tr>
+<tr>
+<td title='WebMathProject.MathforEveryoneandGeneralMathmodule.LoanCalculation()'><b>LoanCalculation</b><br>Test class: WebMathProject.MathforEveryoneandGeneralMathmodule</td>
+<td></td>
+<td>14</td>
+<td>WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd</td></tr>
+</table><p>
+</body>
+</html>

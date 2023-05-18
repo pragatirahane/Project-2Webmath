@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="41" passed="41" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-17T18:24:05 IST" name="Suite" finished-at="2023-05-17T18:35:35 IST" duration-ms="689147">
+    <groups>
+      <group name="General Math">
+        <method signature="MathforEveryoneandGeneralMathmodule.Verifylinksofgeneralmath()[pri:6, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" name="Verifylinksofgeneralmath" class="WebMathProject.MathforEveryoneandGeneralMathmodule"/>
+        <method signature="MathforEveryoneandGeneralMathmodule.FactorCalculation()[pri:7, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" name="FactorCalculation" class="WebMathProject.MathforEveryoneandGeneralMathmodule"/>
+        <method signature="MathforEveryoneandGeneralMathmodule.FractiontoDecimalCalcution()[pri:8, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" name="FractiontoDecimalCalcution" class="WebMathProject.MathforEveryoneandGeneralMathmodule"/>
+        <method signature="MathforEveryoneandGeneralMathmodule.Reducefractionstolowestterm()[pri:9, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" name="Reducefractionstolowestterm" class="WebMathProject.MathforEveryoneandGeneralMathmodule"/>
+        <method signature="MathforEveryoneandGeneralMathmodule.Additionoffraction()[pri:10, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" name="Additionoffraction" class="WebMathProject.MathforEveryoneandGeneralMathmodule"/>
+        <method signature="MathforEveryoneandGeneralMathmodule.clearingfilledform()[pri:11, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" name="clearingfilledform" class="WebMathProject.MathforEveryoneandGeneralMathmodule"/>
+      </group> <!-- General Math -->
+      <group name="K-8math">
+        <method signature="K8MathsandTrigcalculus.VerifylinksofK8Math()[pri:0, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" name="VerifylinksofK8Math" class="WebMathProject.K8MathsandTrigcalculus"/>
+        <method signature="K8MathsandTrigcalculus.Multiplicationcalculation()[pri:1, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" name="Multiplicationcalculation" class="WebMathProject.K8MathsandTrigcalculus"/>
+        <method signature="K8MathsandTrigcalculus.FindingRatio()[pri:2, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" name="FindingRatio" class="WebMathProject.K8MathsandTrigcalculus"/>
+        <method signature="K8MathsandTrigcalculus.ChamparingFractions()[pri:3, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" name="ChamparingFractions" class="WebMathProject.K8MathsandTrigcalculus"/>
+        <method signature="K8MathsandTrigcalculus.Calculatingareaofrectangle()[pri:4, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" name="Calculatingareaofrectangle" class="WebMathProject.K8MathsandTrigcalculus"/>
+      </group> <!-- K-8math -->
+      <group name="Trig.Calculus">
+        <method signature="K8MathsandTrigcalculus.Verifylinksoftrigandcalculus()[pri:5, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" name="Verifylinksoftrigandcalculus" class="WebMathProject.K8MathsandTrigcalculus"/>
+        <method signature="K8MathsandTrigcalculus.simplifyingtrignometricexpression()[pri:6, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" name="simplifyingtrignometricexpression" class="WebMathProject.K8MathsandTrigcalculus"/>
+        <method signature="K8MathsandTrigcalculus.Calculatingangleofrighttriangle()[pri:7, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" name="Calculatingangleofrighttriangle" class="WebMathProject.K8MathsandTrigcalculus"/>
+        <method signature="K8MathsandTrigcalculus.Cleartheentereddataofrightangles()[pri:8, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" name="Cleartheentereddataofrightangles" class="WebMathProject.K8MathsandTrigcalculus"/>
+        <method signature="K8MathsandTrigcalculus.Findingderivatives()[pri:9, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" name="Findingderivatives" class="WebMathProject.K8MathsandTrigcalculus"/>
+        <method signature="K8MathsandTrigcalculus.solvingintergral()[pri:10, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" name="solvingintergral" class="WebMathProject.K8MathsandTrigcalculus"/>
+      </group> <!-- Trig.Calculus -->
+      <group name="Math for everyone">
+        <method signature="MathforEveryoneandGeneralMathmodule.verifylinksofmathforeveryone()[pri:1, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" name="verifylinksofmathforeveryone" class="WebMathProject.MathforEveryoneandGeneralMathmodule"/>
+        <method signature="MathforEveryoneandGeneralMathmodule.salepriceCalculation()[pri:2, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" name="salepriceCalculation" class="WebMathProject.MathforEveryoneandGeneralMathmodule"/>
+        <method signature="MathforEveryoneandGeneralMathmodule.PowerConversion()[pri:3, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" name="PowerConversion" class="WebMathProject.MathforEveryoneandGeneralMathmodule"/>
+        <method signature="MathforEveryoneandGeneralMathmodule.LoanCalculation()[pri:4, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" name="LoanCalculation" class="WebMathProject.MathforEveryoneandGeneralMathmodule"/>
+        <method signature="MathforEveryoneandGeneralMathmodule.CostofElectricity()[pri:5, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" name="CostofElectricity" class="WebMathProject.MathforEveryoneandGeneralMathmodule"/>
+      </group> <!-- Math for everyone -->
+    </groups>
+    <test started-at="2023-05-17T18:24:05 IST" name="Test" finished-at="2023-05-17T18:35:35 IST" duration-ms="689147">
+      <class name="WebMathProject.K8MathsandTrigcalculus">
+        <test-method is-config="true" signature="BrowserLaunch()[pri:0, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:24:05 IST" name="BrowserLaunch" finished-at="2023-05-17T18:24:12 IST" duration-ms="6196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:24:12 IST" name="urlLaunch" finished-at="2023-05-17T18:24:20 IST" duration-ms="8355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="VerifylinksofK8Math()[pri:0, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:24:20 IST" name="VerifylinksofK8Math" finished-at="2023-05-17T18:24:24 IST" duration-ms="4136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifylinksofK8Math -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:24:24 IST" name="urlLaunch" finished-at="2023-05-17T18:24:26 IST" duration-ms="1469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="Multiplicationcalculation()[pri:1, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:24:26 IST" name="Multiplicationcalculation" finished-at="2023-05-17T18:24:38 IST" duration-ms="12771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiplicationcalculation -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:24:38 IST" name="urlLaunch" finished-at="2023-05-17T18:24:40 IST" duration-ms="1515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="FindingRatio()[pri:2, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:24:40 IST" name="FindingRatio" finished-at="2023-05-17T18:24:53 IST" duration-ms="13310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FindingRatio -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:24:53 IST" name="urlLaunch" finished-at="2023-05-17T18:24:55 IST" duration-ms="1647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="ChamparingFractions()[pri:3, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:24:55 IST" name="ChamparingFractions" finished-at="2023-05-17T18:25:12 IST" duration-ms="17234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChamparingFractions -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:25:12 IST" name="urlLaunch" finished-at="2023-05-17T18:25:13 IST" duration-ms="1380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="Calculatingareaofrectangle()[pri:4, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:25:13 IST" name="Calculatingareaofrectangle" finished-at="2023-05-17T18:25:29 IST" duration-ms="15629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Calculatingareaofrectangle -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:25:29 IST" name="urlLaunch" finished-at="2023-05-17T18:25:31 IST" duration-ms="1768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="Verifylinksoftrigandcalculus()[pri:5, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:25:31 IST" name="Verifylinksoftrigandcalculus" finished-at="2023-05-17T18:25:35 IST" duration-ms="3961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifylinksoftrigandcalculus -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:25:35 IST" name="urlLaunch" finished-at="2023-05-17T18:25:36 IST" duration-ms="1515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="simplifyingtrignometricexpression()[pri:6, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:25:36 IST" name="simplifyingtrignometricexpression" finished-at="2023-05-17T18:25:49 IST" duration-ms="12385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simplifyingtrignometricexpression -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:25:49 IST" name="urlLaunch" finished-at="2023-05-17T18:25:50 IST" duration-ms="1414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="Calculatingangleofrighttriangle()[pri:7, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:25:50 IST" name="Calculatingangleofrighttriangle" finished-at="2023-05-17T18:26:09 IST" duration-ms="19273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Calculatingangleofrighttriangle -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:26:09 IST" name="urlLaunch" finished-at="2023-05-17T18:26:11 IST" duration-ms="1961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="Cleartheentereddataofrightangles()[pri:8, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:26:11 IST" name="Cleartheentereddataofrightangles" finished-at="2023-05-17T18:26:29 IST" duration-ms="17686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cleartheentereddataofrightangles -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:26:29 IST" name="urlLaunch" finished-at="2023-05-17T18:26:31 IST" duration-ms="1472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="Findingderivatives()[pri:9, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:26:31 IST" name="Findingderivatives" finished-at="2023-05-17T18:26:43 IST" duration-ms="12058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Findingderivatives -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:26:43 IST" name="urlLaunch" finished-at="2023-05-17T18:26:44 IST" duration-ms="1549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="solvingintergral()[pri:10, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:26:44 IST" name="solvingintergral" finished-at="2023-05-17T18:26:57 IST" duration-ms="12548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- solvingintergral -->
+        <test-method is-config="true" signature="BrowserClose()[pri:0, instance:WebMathProject.K8MathsandTrigcalculus@4145bad8]" started-at="2023-05-17T18:26:57 IST" name="BrowserClose" finished-at="2023-05-17T18:26:59 IST" duration-ms="2771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+      </class> <!-- WebMathProject.K8MathsandTrigcalculus -->
+      <class name="WebMathProject.PlotsandGeometry">
+        <test-method is-config="true" signature="BrowserLaunch()[pri:0, instance:WebMathProject.PlotsandGeometry@298a5e20]" started-at="2023-05-17T18:27:00 IST" name="BrowserLaunch" finished-at="2023-05-17T18:27:05 IST" duration-ms="5672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.PlotsandGeometry@298a5e20]" started-at="2023-05-17T18:27:05 IST" name="urlLaunch" finished-at="2023-05-17T18:27:13 IST" duration-ms="8220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="verifyLinksofPlotsandgeometry()[pri:1, instance:WebMathProject.PlotsandGeometry@298a5e20]" started-at="2023-05-17T18:27:13 IST" name="verifyLinksofPlotsandgeometry" finished-at="2023-05-17T18:27:18 IST" duration-ms="4856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLinksofPlotsandgeometry -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.PlotsandGeometry@298a5e20]" started-at="2023-05-17T18:27:18 IST" name="urlLaunch" finished-at="2023-05-17T18:27:22 IST" duration-ms="3911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="PointsPlotting()[pri:2, instance:WebMathProject.PlotsandGeometry@298a5e20]" started-at="2023-05-17T18:27:22 IST" name="PointsPlotting" finished-at="2023-05-17T18:27:32 IST" duration-ms="9622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PointsPlotting -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.PlotsandGeometry@298a5e20]" started-at="2023-05-17T18:27:32 IST" name="urlLaunch" finished-at="2023-05-17T18:27:36 IST" duration-ms="4208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="PointPlottingClearEnteredData()[pri:3, instance:WebMathProject.PlotsandGeometry@298a5e20]" started-at="2023-05-17T18:27:36 IST" name="PointPlottingClearEnteredData" finished-at="2023-05-17T18:27:47 IST" duration-ms="11143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PointPlottingClearEnteredData -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.PlotsandGeometry@298a5e20]" started-at="2023-05-17T18:27:47 IST" name="urlLaunch" finished-at="2023-05-17T18:27:49 IST" duration-ms="1607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="CalculatingDiameterOfCircle()[pri:4, instance:WebMathProject.PlotsandGeometry@298a5e20]" started-at="2023-05-17T18:27:49 IST" name="CalculatingDiameterOfCircle" finished-at="2023-05-17T18:28:08 IST" duration-ms="19411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalculatingDiameterOfCircle -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.PlotsandGeometry@298a5e20]" started-at="2023-05-17T18:28:08 IST" name="urlLaunch" finished-at="2023-05-17T18:28:12 IST" duration-ms="3851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="CalculatingSidesofSquare()[pri:5, instance:WebMathProject.PlotsandGeometry@298a5e20]" started-at="2023-05-17T18:28:12 IST" name="CalculatingSidesofSquare" finished-at="2023-05-17T18:28:27 IST" duration-ms="15482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalculatingSidesofSquare -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.PlotsandGeometry@298a5e20]" started-at="2023-05-17T18:28:28 IST" name="urlLaunch" finished-at="2023-05-17T18:28:29 IST" duration-ms="1253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="CalculatingVolumeOfCylinder()[pri:6, instance:WebMathProject.PlotsandGeometry@298a5e20]" started-at="2023-05-17T18:28:29 IST" name="CalculatingVolumeOfCylinder" finished-at="2023-05-17T18:28:48 IST" duration-ms="19384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalculatingVolumeOfCylinder -->
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:WebMathProject.PlotsandGeometry@298a5e20]" started-at="2023-05-17T18:28:48 IST" name="urlLaunch" finished-at="2023-05-17T18:28:50 IST" duration-ms="1757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method signature="CalculatingPerimeterOfRighttriangle()[pri:7, instance:WebMathProject.PlotsandGeometry@298a5e20]" started-at="2023-05-17T18:28:50 IST" name="CalculatingPerimeterOfRighttriangle" finished-at="2023-05-17T18:29:04 IST" duration-ms="14022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalculatingPerimeterOfRighttriangle -->
+        <test-method is-config="true" signature="BrowserClose()[pri:0, instance:WebMathProject.PlotsandGeometry@298a5e20]" started-at="2023-05-17T18:29:04 IST" name="BrowserClose" finished-at="2023-05-17T18:29:07 IST" duration-ms="2944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+      </class> <!-- WebMathProject.PlotsandGeometry -->
+      <class name="WebMathProject.MathforEveryoneandGeneralMathmodule">
+        <test-method is-config="true" signature="BrowserLaunch()[pri:0, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:30:12 IST" name="BrowserLaunch" finished-at="2023-05-17T18:30:17 IST" duration-ms="4786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:30:17 IST" name="urllaunch" finished-at="2023-05-17T18:30:26 IST" duration-ms="8608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="verifylinksofmathforeveryone()[pri:1, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:30:26 IST" name="verifylinksofmathforeveryone" finished-at="2023-05-17T18:30:31 IST" duration-ms="5278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylinksofmathforeveryone -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:30:31 IST" name="urllaunch" finished-at="2023-05-17T18:30:36 IST" duration-ms="4887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="salepriceCalculation()[pri:2, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:30:36 IST" name="salepriceCalculation" finished-at="2023-05-17T18:30:54 IST" duration-ms="18234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salepriceCalculation -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:30:54 IST" name="urllaunch" finished-at="2023-05-17T18:30:56 IST" duration-ms="1939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="PowerConversion()[pri:3, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:30:56 IST" name="PowerConversion" finished-at="2023-05-17T18:31:15 IST" duration-ms="18630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PowerConversion -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:31:15 IST" name="urllaunch" finished-at="2023-05-17T18:31:17 IST" duration-ms="1994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="LoanCalculation()[pri:4, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:31:17 IST" name="LoanCalculation" finished-at="2023-05-17T18:31:32 IST" duration-ms="14987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoanCalculation -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:31:32 IST" name="urllaunch" finished-at="2023-05-17T18:31:33 IST" duration-ms="1742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="CostofElectricity()[pri:5, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:31:33 IST" name="CostofElectricity" finished-at="2023-05-17T18:31:47 IST" duration-ms="13682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CostofElectricity -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:31:47 IST" name="urllaunch" finished-at="2023-05-17T18:31:48 IST" duration-ms="1291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="Verifylinksofgeneralmath()[pri:6, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:31:48 IST" name="Verifylinksofgeneralmath" finished-at="2023-05-17T18:31:52 IST" duration-ms="3896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifylinksofgeneralmath -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:31:52 IST" name="urllaunch" finished-at="2023-05-17T18:31:54 IST" duration-ms="1852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="FactorCalculation()[pri:7, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:31:54 IST" name="FactorCalculation" finished-at="2023-05-17T18:32:12 IST" duration-ms="18235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FactorCalculation -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:32:12 IST" name="urllaunch" finished-at="2023-05-17T18:32:14 IST" duration-ms="1797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="FractiontoDecimalCalcution()[pri:8, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:32:14 IST" name="FractiontoDecimalCalcution" finished-at="2023-05-17T18:32:33 IST" duration-ms="19295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FractiontoDecimalCalcution -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:32:33 IST" name="urllaunch" finished-at="2023-05-17T18:32:35 IST" duration-ms="1983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="Reducefractionstolowestterm()[pri:9, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:32:35 IST" name="Reducefractionstolowestterm" finished-at="2023-05-17T18:32:50 IST" duration-ms="15078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reducefractionstolowestterm -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:32:50 IST" name="urllaunch" finished-at="2023-05-17T18:32:53 IST" duration-ms="2430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="Additionoffraction()[pri:10, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:32:53 IST" name="Additionoffraction" finished-at="2023-05-17T18:33:07 IST" duration-ms="13805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Additionoffraction -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:33:07 IST" name="urllaunch" finished-at="2023-05-17T18:33:10 IST" duration-ms="3111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="clearingfilledform()[pri:11, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:33:10 IST" name="clearingfilledform" finished-at="2023-05-17T18:33:21 IST" duration-ms="11614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearingfilledform -->
+        <test-method is-config="true" signature="BrowserClose()[pri:0, instance:WebMathProject.MathforEveryoneandGeneralMathmodule@46cdf8bd]" started-at="2023-05-17T18:33:21 IST" name="BrowserClose" finished-at="2023-05-17T18:33:24 IST" duration-ms="2720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+      </class> <!-- WebMathProject.MathforEveryoneandGeneralMathmodule -->
+      <class name="WebMathProject.Algebra">
+        <test-method is-config="true" signature="BrowserLaunch()[pri:0, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:33:24 IST" name="BrowserLaunch" finished-at="2023-05-17T18:33:29 IST" duration-ms="5054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:33:29 IST" name="urllaunch" finished-at="2023-05-17T18:33:37 IST" duration-ms="7627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="VerifylinksofAlgebra()[pri:1, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:33:37 IST" name="VerifylinksofAlgebra" finished-at="2023-05-17T18:33:41 IST" duration-ms="4602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifylinksofAlgebra -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:33:41 IST" name="urllaunch" finished-at="2023-05-17T18:33:43 IST" duration-ms="1709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="somplifyingproductofalgebricexpression()[pri:2, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:33:43 IST" name="somplifyingproductofalgebricexpression" finished-at="2023-05-17T18:33:57 IST" duration-ms="13781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- somplifyingproductofalgebricexpression -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:33:57 IST" name="urllaunch" finished-at="2023-05-17T18:33:58 IST" duration-ms="1535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="Solvingquadraticequationbyfactoring()[pri:3, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:33:58 IST" name="Solvingquadraticequationbyfactoring" finished-at="2023-05-17T18:34:10 IST" duration-ms="11079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Solvingquadraticequationbyfactoring -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:34:10 IST" name="urllaunch" finished-at="2023-05-17T18:34:11 IST" duration-ms="1830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="Substractionofcomplexnumber()[pri:4, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:34:11 IST" name="Substractionofcomplexnumber" finished-at="2023-05-17T18:34:23 IST" duration-ms="11308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Substractionofcomplexnumber -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:34:23 IST" name="urllaunch" finished-at="2023-05-17T18:34:25 IST" duration-ms="1935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="PercentsCalculation()[pri:5, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:34:25 IST" name="PercentsCalculation" finished-at="2023-05-17T18:34:37 IST" duration-ms="12623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PercentsCalculation -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:34:37 IST" name="urllaunch" finished-at="2023-05-17T18:34:39 IST" duration-ms="1371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="multiplicationofpolynomials()[pri:6, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:34:39 IST" name="multiplicationofpolynomials" finished-at="2023-05-17T18:34:49 IST" duration-ms="10483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplicationofpolynomials -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:34:49 IST" name="urllaunch" finished-at="2023-05-17T18:34:50 IST" duration-ms="1199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="SolvingEquation()[pri:7, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:34:50 IST" name="SolvingEquation" finished-at="2023-05-17T18:35:05 IST" duration-ms="14755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SolvingEquation -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:35:05 IST" name="urllaunch" finished-at="2023-05-17T18:35:06 IST" duration-ms="1293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="FindingsquareRoots()[pri:8, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:35:06 IST" name="FindingsquareRoots" finished-at="2023-05-17T18:35:17 IST" duration-ms="10607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FindingsquareRoots -->
+        <test-method is-config="true" signature="urllaunch()[pri:0, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:35:17 IST" name="urllaunch" finished-at="2023-05-17T18:35:18 IST" duration-ms="1110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method signature="backToProblem()[pri:9, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:35:18 IST" name="backToProblem" finished-at="2023-05-17T18:35:32 IST" duration-ms="13892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToProblem -->
+        <test-method is-config="true" signature="BrowserClose()[pri:0, instance:WebMathProject.Algebra@f0c8a99]" started-at="2023-05-17T18:35:32 IST" name="BrowserClose" finished-at="2023-05-17T18:35:35 IST" duration-ms="2508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+      </class> <!-- WebMathProject.Algebra -->
+      <class name="WebMathProject.Webmathhomepage">
+        <test-method is-config="true" signature="BrowserLaunch()[pri:0, instance:WebMathProject.Webmathhomepage@2a7f1f10]" started-at="2023-05-17T18:29:07 IST" name="BrowserLaunch" finished-at="2023-05-17T18:29:12 IST" duration-ms="4848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method signature="Webmathurllaunch()[pri:1, instance:WebMathProject.Webmathhomepage@2a7f1f10]" started-at="2023-05-17T18:29:12 IST" name="Webmathurllaunch" finished-at="2023-05-17T18:29:21 IST" duration-ms="9752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Webmathurllaunch -->
+        <test-method signature="VerifyWebmathOptions()[pri:2, instance:WebMathProject.Webmathhomepage@2a7f1f10]" started-at="2023-05-17T18:29:21 IST" name="VerifyWebmathOptions" finished-at="2023-05-17T18:30:06 IST" duration-ms="44995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyWebmathOptions -->
+        <test-method signature="verifydropdownoptions()[pri:3, instance:WebMathProject.Webmathhomepage@2a7f1f10]" started-at="2023-05-17T18:30:06 IST" name="verifydropdownoptions" finished-at="2023-05-17T18:30:11 IST" duration-ms="4208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifydropdownoptions -->
+        <test-method is-config="true" signature="BrowserClose()[pri:0, instance:WebMathProject.Webmathhomepage@2a7f1f10]" started-at="2023-05-17T18:30:11 IST" name="BrowserClose" finished-at="2023-05-17T18:30:12 IST" duration-ms="1586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+      </class> <!-- WebMathProject.Webmathhomepage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
